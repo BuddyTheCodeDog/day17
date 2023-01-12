@@ -156,3 +156,4 @@ function getCheapestNFT(arrayOfNFTS: NFT[]){
 }
 
 console.log(getCheapestNFT(arrayOfNFTS));
+//testing changes
